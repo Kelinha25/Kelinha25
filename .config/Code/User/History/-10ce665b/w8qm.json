@@ -1,0 +1,7 @@
+{
+    "editor.unicodeHighlight.allowedLocales": {
+        "fr": true
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "diffEditor.ignoreTrimWhitespace": false
+}

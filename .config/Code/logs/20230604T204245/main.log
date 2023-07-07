@@ -1,0 +1,11 @@
+2023-06-04 20:42:47.552 [info] update#setState idle
+2023-06-04 20:43:17.564 [info] update#setState checking for updates
+2023-06-04 20:43:17.821 [info] update#setState idle
+2023-06-04 21:43:17.578 [info] update#setState checking for updates
+2023-06-04 21:43:19.075 [info] update#setState idle
+2023-06-04 22:43:17.665 [info] update#setState checking for updates
+2023-06-04 22:43:19.059 [info] update#setState idle
+2023-06-04 23:14:03.656 [info] Extension host with pid 356 exited with code: 0, signal: unknown.
+2023-06-04 23:43:17.675 [info] update#setState checking for updates
+2023-06-04 23:43:19.043 [info] update#setState idle
+2023-06-04 23:44:35.612 [info] Extension host with pid 4917 exited with code: 0, signal: unknown.

@@ -1,0 +1,193 @@
+2023-06-03 16:19:04.652 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-06-03 16:19:24.141 [info] [perf] Render performance baseline is 127ms
+2023-06-03 16:19:27.098 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-03 16:19:27.189 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-03 16:24:24.199 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-03 16:24:24.618 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 09:27:45.555 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 09:27:45.559 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 10:24:39.205 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 10:24:40.711 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 10:25:00.364 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 10:25:00.417 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 10:45:38.371 [warning] Settings pattern "security.*" doesn't match any settings
+2023-06-04 10:45:38.373 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: interactiveEditor.editMode, accessibility.verbosity.diff-editor, accessibility.verbosity.terminal
+2023-06-04 10:56:54.250 [warning] Settings pattern "security.*" doesn't match any settings
+2023-06-04 10:58:19.224 [warning] Settings pattern "security.*" doesn't match any settings
+2023-06-04 11:24:05.748 [error] Unable to find matching pair for < at char 1034: Error: Unable to find matching pair for < at char 1034
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at oe.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:52903)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:73510
+	at le.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:65165)
+	at le.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:73496)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:11620)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:11338)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:10393)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:9412)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:8200
+	at v.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at g.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:32403
+	at v.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at g.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:30529)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-06-04 11:24:11.802 [error] Unable to find matching pair for < at char 1034: Error: Unable to find matching pair for < at char 1034
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at oe.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:52903)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:73510
+	at le.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:65165)
+	at le.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:73496)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:11620)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:11338)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:10393)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:9412)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:8200
+	at v.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at g.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:32403
+	at v.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at g.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:30529)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-06-04 11:24:14.989 [error] Unable to find matching pair for < at char 1034: Error: Unable to find matching pair for < at char 1034
+	at r.error (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at m (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at E (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at I (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:210303)
+	at t.DefaultCompletionItemProvider.b (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:195403)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:194341)
+	at oe.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:52903)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:73510
+	at le.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:65165)
+	at le.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:73496)
+	at a.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:11620)
+	at a.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:11338)
+	at a.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:10393)
+	at a.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:9412)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:8200
+	at v.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at g.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:32403
+	at v.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at g.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:30529)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-06-04 11:25:23.396 [warning] Settings pattern "security.*" doesn't match any settings
+2023-06-04 11:25:35.668 [warning] Settings pattern "security.*" doesn't match any settings
+2023-06-04 11:32:48.923 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 11:32:49.482 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 13:40:25.308 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 13:40:27.838 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 13:40:46.813 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 13:40:51.942 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 17:08:31.447 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 17:08:31.453 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 17:08:42.515 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 17:08:43.533 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 17:16:40.946 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 17:16:42.371 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 17:17:32.258 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 17:17:32.605 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 17:18:00.013 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 17:18:00.886 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 17:49:04.002 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 17:49:08.792 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 17:58:17.952 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 17:58:18.230 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 17:58:23.781 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 17:58:23.794 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 18:32:44.840 [warning] Settings pattern "security.*" doesn't match any settings
+2023-06-04 18:58:13.529 [warning] Settings pattern "security.*" doesn't match any settings
+2023-06-04 19:14:26.526 [warning] Settings pattern "security.*" doesn't match any settings
+2023-06-04 19:20:01.457 [error] [text file model] handleSaveError(4175) - exit - resulted in a save error: Error: Não é possível gravar o arquivo '/home/cerejinha3020/index.html/html' (Error: Arquivo Modificado Desde) file:///home/cerejinha3020/index.html/html
+2023-06-04 19:33:19.724 [warning] Settings pattern "security.*" doesn't match any settings
+2023-06-04 19:58:51.158 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 19:58:51.322 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 19:59:53.564 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 19:59:58.114 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 20:00:59.567 [warning] Settings pattern "security.*" doesn't match any settings
+2023-06-04 20:02:00.501 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 20:02:01.078 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 20:05:43.920 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 20:05:43.937 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 20:05:58.792 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 20:06:07.473 [warning] UNRESPONSIVE extension host: 'vscode.git' took 21.056815422515307% of 1067.502ms, saved PROFILE here: 'file:///tmp/exthost-db21f8.cpuprofile'
+2023-06-04 20:06:20.482 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 20:06:37.291 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 20:06:38.995 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 20:07:15.072 [error] Cannot use 'in' operator to search for 'provider' in undefined: TypeError: Cannot use 'in' operator to search for 'provider' in undefined
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1516:62107
+    at g.invoke (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:93:145)
+    at o.deliver (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:93:2121)
+    at s.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:93:1729)
+    at b.Nb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:626:34603)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:626:33714
+    at g.invoke (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:93:145)
+    at o.deliver (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:93:2121)
+    at s.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:93:1729)
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:626:42503)
+2023-06-04 20:07:17.242 [error] Cannot use 'in' operator to search for 'provider' in undefined: TypeError: Cannot use 'in' operator to search for 'provider' in undefined
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1516:62107
+    at g.invoke (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:93:145)
+    at o.deliver (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:93:2121)
+    at s.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:93:1729)
+    at b.Nb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:626:34603)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:626:33714
+    at g.invoke (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:93:145)
+    at o.deliver (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:93:2121)
+    at s.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:93:1729)
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:626:42503)
+2023-06-04 20:11:09.134 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 20:11:09.298 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 20:13:32.910 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 20:13:36.596 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 20:13:37.342 [warning] UNRESPONSIVE extension host: 'vscode.git' took 14.992690914447815% of 555.681ms, saved PROFILE here: 'file:///tmp/exthost-a92d62.cpuprofile'
+2023-06-04 20:14:08.019 [error] [text file model] handleSaveError(5052) - exit - resulted in a save error: Error: Não é possível gravar o arquivo '/home/cerejinha3020/index.html/html' (Error: Arquivo Modificado Desde) file:///home/cerejinha3020/index.html/html
+2023-06-04 20:18:52.122 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 20:18:52.634 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 20:19:04.682 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 20:19:11.846 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 20:19:13.436 [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/bootstrap.js:1:419)
+	at process.emit (node:events:513:28)

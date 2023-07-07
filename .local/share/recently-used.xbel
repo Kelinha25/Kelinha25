@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/cerejinha3020/index.html" added="2023-06-03T17:43:21.694950Z" modified="2023-06-06T02:43:23.269375Z" visited="2023-06-03T17:43:21.694951Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-06-06T02:43:23.269337Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cerejinha3020/index.html/html" added="2023-06-03T17:45:06.979154Z" modified="2023-06-04T21:32:59.649890Z" visited="2023-06-03T17:45:06.979157Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-06-04T21:32:59.649844Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cerejinha3020/index.html/index.html.code-workspace" added="2023-06-05T02:14:02.334615Z" modified="2023-06-05T02:43:57.969918Z" visited="2023-06-05T02:14:02.334617Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-code-workspace"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-06-05T02:43:57.969912Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cerejinha3020/index.html/html5" added="2023-06-05T22:35:40.299984Z" modified="2023-06-05T22:35:40.300032Z" visited="2023-06-05T22:35:40.299986Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-06-05T22:35:40.299990Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

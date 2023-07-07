@@ -1,0 +1,36 @@
+2023-06-03 16:19:03.103 [info] update#setState idle
+2023-06-03 16:19:33.113 [info] update#setState checking for updates
+2023-06-03 16:19:33.395 [info] update#setState idle
+2023-06-03 19:09:55.563 [info] update#setState checking for updates
+2023-06-03 19:09:56.606 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49241)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-06-03 19:09:56.664 [info] update#setState idle
+2023-06-04 09:27:32.892 [info] update#setState checking for updates
+2023-06-04 09:27:33.869 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49241)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-06-04 09:27:33.871 [info] update#setState idle
+2023-06-04 10:27:32.689 [info] update#setState checking for updates
+2023-06-04 10:27:33.779 [info] update#setState idle
+2023-06-04 11:27:32.701 [info] update#setState checking for updates
+2023-06-04 11:27:33.765 [info] update#setState idle
+2023-06-04 13:32:26.658 [info] update#setState checking for updates
+2023-06-04 13:32:28.292 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49241)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-06-04 13:32:28.308 [info] update#setState idle
+2023-06-04 17:08:28.453 [info] update#setState checking for updates
+2023-06-04 17:08:30.088 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49241)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-06-04 17:08:30.226 [info] update#setState idle
+2023-06-04 18:08:28.698 [info] update#setState checking for updates
+2023-06-04 18:08:30.045 [info] update#setState idle
+2023-06-04 19:08:28.712 [info] update#setState checking for updates
+2023-06-04 19:08:29.538 [info] update#setState idle
+2023-06-04 20:08:28.721 [info] update#setState checking for updates
+2023-06-04 20:08:29.827 [info] update#setState idle
+2023-06-04 20:09:43.927 [info] update#setState checking for updates
+2023-06-04 20:09:44.172 [info] update#setState idle
+2023-06-04 20:19:31.278 [info] Extension host with pid 3717 exited with code: 0, signal: unknown.

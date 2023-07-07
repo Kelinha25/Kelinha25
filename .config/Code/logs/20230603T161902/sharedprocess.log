@@ -1,0 +1,18 @@
+2023-06-03 16:19:13.744 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-03 19:09:56.025 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-04 09:27:32.742 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-04 10:23:35.672 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-04 13:32:26.829 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-04 13:40:21.504 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-04 17:08:28.611 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-04 17:49:00.756 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-04 17:58:16.491 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-04 18:16:49.879 [info] Getting Manifest... ysemeniuk.emmet-live
+2023-06-04 18:16:49.902 [info] Installing extension: ysemeniuk.emmet-live
+2023-06-04 18:16:55.165 [info] Extension signature is verified: ysemeniuk.emmet-live
+2023-06-04 18:16:55.612 [info] Extracted extension to /home/cerejinha3020/.vscode/extensions/.e73448d6-550c-4fe8-94c0-b7ed35dfcf41: ysemeniuk.emmet-live
+2023-06-04 18:16:55.642 [info] Renamed to /home/cerejinha3020/.vscode/extensions/ysemeniuk.emmet-live-1.0.0
+2023-06-04 18:16:55.648 [info] Extracting extension completed. ysemeniuk.emmet-live
+2023-06-04 18:16:55.743 [info] Extension installed successfully: ysemeniuk.emmet-live
+2023-06-04 18:41:48.424 [error] [uncaught exception in sharedProcess]: Ocorreu um erro no sistema (read ECONNRESET): Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)

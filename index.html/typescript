@@ -1,0 +1,41 @@
+Script started on 2023-06-04 11:29:48-03:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="123" LINES="13"]
+[?2004h]0;cerejinha3020@penguin: ~/index.html[01;32mcerejinha3020@penguin[00m:[01;34m~/index.html[00m$ ^V[Kscript-- timing=tempo.tc[Kxt script.log
+[?2004lbash: script--: command not found
+[?2004h]0;cerejinha3020@penguin: ~/index.html[01;32mcerejinha3020@penguin[00m:[01;34m~/index.html[00m$ [K]0;cerejinha3020@penguin: ~/index.html[01;32mcerejinha3020@penguin[00m:[01;34m~/index.html[00m$ 
+[?2004l[?2004h]0;cerejinha3020@penguin: ~/index.html[01;32mcerejinha3020@penguin[00m:[01;34m~/index.html[00m$ save
+[?2004lbash: save: command not found
+[?2004h]0;cerejinha3020@penguin: ~/index.html[01;32mcerejinha3020@penguin[00m:[01;34m~/index.html[00m$ g[Khelp
+[?2004lGNU bash, version 5.1.4(1)-release (x86_64-pc-linux-gnu)
+These shell commands are defined internally.  Type `help' to see this list.
+Type `help name' to find out more about the function `name'.
+Use `info bash' to find out more about the shell in general.
+Use `man -k' or `info' to find out more about commands not in this list.
+
+A star (*) next to a name means that the command is disabled.
+
+ job_spec [&]                                                            history [-c] [-d offset] [n] or history -anrw [filename] or history >
+ (( expression ))                                                        if COMMANDS; then COMMANDS; [ elif COMMANDS; then COMMANDS; ]... [ e>
+ . filename [arguments]                                                  jobs [-lnprs] [jobspec ...] or jobs -x command [args]
+ :                                                                       kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill ->
+ [ arg... ]                                                              let arg [arg ...]
+ [[ expression ]]                                                        local [option] name[=value] ...
+ alias [-p] [name[=value] ... ]                                          logout [n]
+ bg [job_spec ...]                                                       mapfile [-d delim] [-n count] [-O origin] [-s count] [-t] [-u fd] [->
+ bind [-lpsvPSVX] [-m keymap] [-f filename] [-q name] [-u name] [-r ke>  popd [-n] [+N | -N]
+ break [n]                                                               printf [-v var] format [arguments]
+ builtin [shell-builtin [arg ...]]                                       pushd [-n] [+N | -N | dir]
+ caller [expr]                                                           pwd [-LP]
+ case WORD in [PATTERN [| PATTERN]...) COMMANDS ;;]... esac              read [-ers] [-a array] [-d delim] [-i text] [-n nchars] [-N nchars] >
+ cd [-L|[-P [-e]] [-@]] [dir]                                            readarray [-d delim] [-n count] [-O origin] [-s count] [-t] [-u fd] >
+ command [-pVv] command [arg ...]                                        readonly [-aAf] [name[=value] ...] or readonly -p
+ compgen [-abcdefgjksuv] [-o option] [-A action] [-G globpat] [-W word>  return [n]
+ complete [-abcdefgjksuv] [-pr] [-DEI] [-o option] [-A action] [-G glo>  select NAME [in WORDS ... ;] do COMMANDS; done
+ compopt [-o|+o option] [-DEI] [name ...]                                set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+ continue [n]                                                            shift [n]
+ coproc [NAME] command [redirections]                                    shopt [-pqsu] [-o] [optname ...]
+ declare [-aAfFgiIlnrtux] [-p] [name[=value] ...]                        source filename [arguments]
+ dirs [-clpv] [+N] [-N]                                                  suspend [-f]
+ disown [-h] [-ar] [jobspec ... | pid ...]                               test [expr]
+ echo [-neE] [arg ...]                                                   time [-p] pipeline
+ enable [-a] [-dnps] [-f filename] [name ...]                            times
+ eval [arg ...]                                                          trap [-lp] [[arg] signal_spec .

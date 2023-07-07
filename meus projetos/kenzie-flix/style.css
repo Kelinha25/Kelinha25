@@ -1,0 +1,113 @@
+body {
+
+    text-align: center;
+    background-color: black;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+}
+
+.Logo_kezieflix{
+
+height: 50px;
+width: 100%px;
+border: #ffffff00 solid 2px;
+align-items: center;
+margin-top: 20px;
+
+
+}
+
+.logo{
+height: 100%;
+
+}
+
+.titulo {
+
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 2px;
+    text-align:center;
+    
+}
+
+.divheader2 {
+    border: #ffffff00 solid 2px;
+    width: 100%;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+
+}
+
+p {
+
+    color: #808080;
+    font-size: 12px;
+    margin-top: 10px;
+
+}
+
+header {
+
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+
+}
+
+main {
+
+
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    align-items: center;
+
+
+}
+
+.maindiv {
+
+    height: 90px;
+    width: 90px;
+    border: 2px solid #ffffff00;
+    margin: 20px;
+    border-radius: 5px
+}
+
+.imagem_perfil {
+
+    height: 100%;
+    width: 100%;
+    border-radius: 5px
+}
+
+.maindiv:hover {
+    height: 90px;
+    width: 90px;
+    border: 2px solid #ffffff;
+}
+
+.butao_de_gerenciar_pefil {
+    background-color: black;
+    color: #ffffff;
+    border: #ffffff solid 1.5px;
+    border-radius: 2px;
+    height: 50px;
+    width: 200px;
+
+}
+
+.butao_de_gerenciar_pefil:hover {
+
+    background-color: white;
+    color: #000000;
+    border: #000000 solid 1.5px;
+    border-radius: 2px;
+    height: 50px;
+    width: 200px;
+
+}

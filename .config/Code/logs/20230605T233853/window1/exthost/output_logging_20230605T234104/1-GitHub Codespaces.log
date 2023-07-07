@@ -1,0 +1,126 @@
+[Client I] GitHub Codespaces version 1.14.7
+[Client I] isRunningInWeb: "false"
+[Client V] Initializing authentication
+[Authentication I] Did not find existing login session
+[Authentication I] Did not find existing login session
+[API I] Signing out due to unsuccessful sign in attempt
+[Client:extension:8ac0 I] initializing
+[Client:extension:8ac0 I] creating LiveShare ConnectionHub, with type: "main thread"
+[Client:extension:8ac0 I] 1 connections used: > object #0: [object Object]
+[Client:extension:8ac0:resolver I] created with protocol "codespaces"
+[RemoteExplorer I] Updating codespace performance info
+[Authentication I] Did not find existing login session
+[API E] listCodespaces error. No response received.
+[Client:extension:8ac0:resolver:resolve:1 I] resolve retry #3
+[Client:extension:8ac0:resolver:resolve:1 I] resolving "codespaces+kelinha25-curly-trout-4xp6jj6vg4g2qp56"
+[Client:extension:8ac0:resolver:resolve:1 I] codespace: "kelinha25-curly-trout-4xp6jj6vg4g2qp56", fetching details
+[Client:extension:8ac0:resolver:resolve:1:fetch-codespace-info I] fetching codespace details for "kelinha25-curly-trout-4xp6jj6vg4g2qp56"
+[Client V] connect duration: 20 ms
+[Client:extension:8ac0:resolver E] resolve failed (3 retries left): > object #0: Please sign in to the GitHub Codespaces extension before connecting to a codespace.
+  at /home/cerejinha3020/.vscode/extensions/github.codespaces-1.14.7/src/utils/fetchCodespaceInfo.ts:81:38
+  at Generator.next (<anonymous>)
+  at /home/cerejinha3020/.vscode/extensions/github.codespaces-1.14.7/out/bundle/extension-node.js:901:5881
+  at new Promise (<anonymous>)
+  at fetchCodespaceInfo_async (/home/cerejinha3020/.vscode/extensions/github.codespaces-1.14.7/out/bundle/extension-node.js:901:5631)
+  at fetchCodespaceInfo (/home/cerejinha3020/.vscode/extensions/github.codespaces-1.14.7/src/utils/fetchCodespaceInfo.ts:76:34)
+  at /home/cerejinha3020/.vscode/extensions/utils/dist/src/utils/withMutexByArguments.js:60:38
+  at Generator.next (<anonymous>)
+  at /home/cerejinha3020/.vscode/extensions/utils/dist/src/utils/withMutexByArguments.js:8:71
+  at new Promise (<anonymous>)
+  at i (/home/cerejinha3020/.vscode/extensions/utils/dist/src/utils/withMutexByArguments.js:4:12)
+  at Timeout._onTimeout (/home/cerejinha3020/.vscode/extensions/utils/dist/src/utils/withMutexByArguments.js:58:34)
+  at listOnTimeout (node:internal/timers:559:17)
+  at processTimers (node:internal/timers:502:7)
+[Client:extension:8ac0:resolver V] attaching client logs
+[Client:extension:8ac0:resolver V] attaching client logs
+[Client:extension:8ac0:resolver:workspace-hub-client:logs: V] Agent lock on:</<redacte/<redacte.lock>
+[Client:extension:8ac0:resolver:workspace-hub-client:logs: V] Finished agent startup...
+[Client:extension:8ac0:resolver:workspace-hub-client:logs: V] Agent unlocked
+[Client:extension:8ac0:resolver:workspace-hub-client:logs: I] rpc server address info:/tmp/CoreFxPipe_hw.c342e883b200198cbc480b36f63f8cf0 retry:76
+[Client:extension:8ac0:resolver:workspace-hub-client:logs: V] subscribing to onDispose event
+[Client:extension:8ac0:resolver:workspace-hub-client:logs: I] hub client successfully created on pipe:/tmp/CoreFxPipe_hw.c342e883b200198cbc480b36f63f8cf0
+[Client V] < logService.getLogs()
+[Client V] > logService.getLogs() succeeded t:20.0
+[Client:extension:8ac0:resolver V] attaching client logs
+[Client:extension:8ac0:resolver:resolve:1 I] resolve retry #2
+[Client:extension:8ac0:resolver:resolve:1 I] resolving "codespaces+kelinha25-curly-trout-4xp6jj6vg4g2qp56"
+[Client:extension:8ac0:resolver:resolve:1 I] codespace: "kelinha25-curly-trout-4xp6jj6vg4g2qp56", fetching details
+[Client:extension:8ac0:resolver:resolve:1:fetch-codespace-info I] fetching codespace details for "kelinha25-curly-trout-4xp6jj6vg4g2qp56"
+[Client V] connect duration: 7 ms
+[Client:extension:8ac0:resolver E] resolve failed (2 retries left): > object #0: Please sign in to the GitHub Codespaces extension before connecting to a codespace.
+  at /home/cerejinha3020/.vscode/extensions/github.codespaces-1.14.7/src/utils/fetchCodespaceInfo.ts:81:38
+  at Generator.next (<anonymous>)
+  at /home/cerejinha3020/.vscode/extensions/github.codespaces-1.14.7/out/bundle/extension-node.js:901:5881
+  at new Promise (<anonymous>)
+  at fetchCodespaceInfo_async (/home/cerejinha3020/.vscode/extensions/github.codespaces-1.14.7/out/bundle/extension-node.js:901:5631)
+  at fetchCodespaceInfo (/home/cerejinha3020/.vscode/extensions/github.codespaces-1.14.7/src/utils/fetchCodespaceInfo.ts:76:34)
+  at /home/cerejinha3020/.vscode/extensions/utils/dist/src/utils/withMutexByArguments.js:60:38
+  at Generator.next (<anonymous>)
+  at /home/cerejinha3020/.vscode/extensions/utils/dist/src/utils/withMutexByArguments.js:8:71
+  at new Promise (<anonymous>)
+  at i (/home/cerejinha3020/.vscode/extensions/utils/dist/src/utils/withMutexByArguments.js:4:12)
+  at Timeout._onTimeout (/home/cerejinha3020/.vscode/extensions/utils/dist/src/utils/withMutexByArguments.js:58:34)
+  at listOnTimeout (node:internal/timers:559:17)
+  at processTimers (node:internal/timers:502:7)
+[Client:extension:8ac0:resolver V] attaching client logs
+[Client:extension:8ac0:resolver V] attaching client logs
+[Client:extension:8ac0:resolver:workspace-hub-client:logs: V] subscribing to onDispose event
+[Client:extension:8ac0:resolver:workspace-hub-client:logs: I] hub client successfully created on pipe:hw.c342e883b200198cbc480b36f63f8cf0
+[Client V] < logService.getLogs()
+[Client V] > logService.getLogs() succeeded t:7.0
+[Client:extension:8ac0:resolver V] attaching client logs
+[Client:extension:8ac0:resolver:resolve:1 I] resolve retry #1
+[Client:extension:8ac0:resolver:resolve:1 I] resolving "codespaces+kelinha25-curly-trout-4xp6jj6vg4g2qp56"
+[Client:extension:8ac0:resolver:resolve:1 I] codespace: "kelinha25-curly-trout-4xp6jj6vg4g2qp56", fetching details
+[Client:extension:8ac0:resolver:resolve:1:fetch-codespace-info I] fetching codespace details for "kelinha25-curly-trout-4xp6jj6vg4g2qp56"
+[Client V] connect duration: 40 ms
+[Client:extension:8ac0:resolver E] resolve failed (1 retries left): > object #0: Please sign in to the GitHub Codespaces extension before connecting to a codespace.
+  at /home/cerejinha3020/.vscode/extensions/github.codespaces-1.14.7/src/utils/fetchCodespaceInfo.ts:81:38
+  at Generator.next (<anonymous>)
+  at /home/cerejinha3020/.vscode/extensions/github.codespaces-1.14.7/out/bundle/extension-node.js:901:5881
+  at new Promise (<anonymous>)
+  at fetchCodespaceInfo_async (/home/cerejinha3020/.vscode/extensions/github.codespaces-1.14.7/out/bundle/extension-node.js:901:5631)
+  at fetchCodespaceInfo (/home/cerejinha3020/.vscode/extensions/github.codespaces-1.14.7/src/utils/fetchCodespaceInfo.ts:76:34)
+  at /home/cerejinha3020/.vscode/extensions/utils/dist/src/utils/withMutexByArguments.js:60:38
+  at Generator.next (<anonymous>)
+  at /home/cerejinha3020/.vscode/extensions/utils/dist/src/utils/withMutexByArguments.js:8:71
+  at new Promise (<anonymous>)
+  at i (/home/cerejinha3020/.vscode/extensions/utils/dist/src/utils/withMutexByArguments.js:4:12)
+  at Timeout._onTimeout (/home/cerejinha3020/.vscode/extensions/utils/dist/src/utils/withMutexByArguments.js:58:34)
+  at listOnTimeout (node:internal/timers:559:17)
+  at processTimers (node:internal/timers:502:7)
+[Client:extension:8ac0:resolver V] attaching client logs
+[Client:extension:8ac0:resolver V] attaching client logs
+[Client:extension:8ac0:resolver:workspace-hub-client:logs: V] subscribing to onDispose event
+[Client:extension:8ac0:resolver:workspace-hub-client:logs: I] hub client successfully created on pipe:hw.c342e883b200198cbc480b36f63f8cf0
+[Client V] < logService.getLogs()
+[Client V] > logService.getLogs() succeeded t:5.0
+[Client:extension:8ac0:resolver V] attaching client logs
+[Client:extension:8ac0:resolver:resolve:1 I] resolve retry #0
+[Client:extension:8ac0:resolver:resolve:1 I] resolving "codespaces+kelinha25-curly-trout-4xp6jj6vg4g2qp56"
+[Client:extension:8ac0:resolver:resolve:1 I] codespace: "kelinha25-curly-trout-4xp6jj6vg4g2qp56", fetching details
+[Client:extension:8ac0:resolver:resolve:1:fetch-codespace-info I] fetching codespace details for "kelinha25-curly-trout-4xp6jj6vg4g2qp56"
+[Client V] connect duration: 10 ms
+[Client:extension:8ac0:resolver E] resolve failed (0 retries left): > object #0: Please sign in to the GitHub Codespaces extension before connecting to a codespace.
+  at /home/cerejinha3020/.vscode/extensions/github.codespaces-1.14.7/src/utils/fetchCodespaceInfo.ts:81:38
+  at Generator.next (<anonymous>)
+  at /home/cerejinha3020/.vscode/extensions/github.codespaces-1.14.7/out/bundle/extension-node.js:901:5881
+  at new Promise (<anonymous>)
+  at fetchCodespaceInfo_async (/home/cerejinha3020/.vscode/extensions/github.codespaces-1.14.7/out/bundle/extension-node.js:901:5631)
+  at fetchCodespaceInfo (/home/cerejinha3020/.vscode/extensions/github.codespaces-1.14.7/src/utils/fetchCodespaceInfo.ts:76:34)
+  at /home/cerejinha3020/.vscode/extensions/utils/dist/src/utils/withMutexByArguments.js:60:38
+  at Generator.next (<anonymous>)
+  at /home/cerejinha3020/.vscode/extensions/utils/dist/src/utils/withMutexByArguments.js:8:71
+  at new Promise (<anonymous>)
+  at i (/home/cerejinha3020/.vscode/extensions/utils/dist/src/utils/withMutexByArguments.js:4:12)
+  at Timeout._onTimeout (/home/cerejinha3020/.vscode/extensions/utils/dist/src/utils/withMutexByArguments.js:58:34)
+  at listOnTimeout (node:internal/timers:559:17)
+  at processTimers (node:internal/timers:502:7)
+[Client:extension:8ac0:resolver V] attaching client logs
+[Client:extension:8ac0:resolver V] attaching client logs
+[Client:extension:8ac0:resolver:workspace-hub-client:logs: V] subscribing to onDispose event
+[Client:extension:8ac0:resolver:workspace-hub-client:logs: I] hub client successfully created on pipe:hw.c342e883b200198cbc480b36f63f8cf0
+[Client V] < logService.getLogs()
+[Client V] > logService.getLogs() succeeded t:10.0
+[Client:extension:8ac0:resolver V] attaching client logs
+[Client:extension:8ac0:resolver:dialog:ask-user-to-exit I] asking user to exit the Codespace

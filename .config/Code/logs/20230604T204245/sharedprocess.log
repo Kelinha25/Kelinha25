@@ -1,0 +1,22 @@
+2023-06-04 20:43:00.692 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-04 22:55:42.891 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2023-06-04 22:55:42.924 [info] Installing extension: ms-vscode-remote.remote-ssh
+2023-06-04 22:55:44.844 [info] Getting Manifest... ms-vscode-remote.remote-ssh-edit
+2023-06-04 22:55:44.932 [info] Getting Manifest... ms-vscode.remote-explorer
+2023-06-04 22:55:46.407 [info] Installing extension: ms-vscode-remote.remote-ssh-edit ms-vscode-remote.remote-ssh
+2023-06-04 22:55:46.407 [info] Installing extension: ms-vscode.remote-explorer ms-vscode-remote.remote-ssh
+2023-06-04 22:55:58.949 [info] Extension signature is verified: ms-vscode-remote.remote-ssh-edit
+2023-06-04 22:55:59.020 [info] Extension signature is verified: ms-vscode.remote-explorer
+2023-06-04 22:56:01.024 [info] Extracted extension to /home/cerejinha3020/.vscode/extensions/.564858ea-f1c3-4e87-a2bd-6e599061b92a: ms-vscode.remote-explorer
+2023-06-04 22:56:01.164 [info] Renamed to /home/cerejinha3020/.vscode/extensions/ms-vscode.remote-explorer-0.4.0
+2023-06-04 22:56:01.482 [info] Extracting extension completed. ms-vscode.remote-explorer
+2023-06-04 22:56:01.650 [info] Extracted extension to /home/cerejinha3020/.vscode/extensions/.d89c560f-9559-4c2a-92f3-c457efde309f: ms-vscode-remote.remote-ssh-edit
+2023-06-04 22:56:01.758 [info] Renamed to /home/cerejinha3020/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.86.0
+2023-06-04 22:56:01.828 [info] Extracting extension completed. ms-vscode-remote.remote-ssh-edit
+2023-06-04 22:56:08.349 [info] Extension signature is verified: ms-vscode-remote.remote-ssh
+2023-06-04 22:56:11.377 [info] Extracted extension to /home/cerejinha3020/.vscode/extensions/.42ea35f7-7744-45f9-bdc6-e0a213569dbf: ms-vscode-remote.remote-ssh
+2023-06-04 22:56:11.425 [info] Renamed to /home/cerejinha3020/.vscode/extensions/ms-vscode-remote.remote-ssh-0.102.0
+2023-06-04 22:56:11.451 [info] Extracting extension completed. ms-vscode-remote.remote-ssh
+2023-06-04 22:56:11.512 [info] Extension installed successfully: ms-vscode.remote-explorer
+2023-06-04 22:56:11.513 [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit
+2023-06-04 22:56:11.515 [info] Extension installed successfully: ms-vscode-remote.remote-ssh

@@ -1,0 +1,74 @@
+2023-06-04 20:42:49.925 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-06-04 20:43:13.125 [info] [perf] Render performance baseline is 215ms
+2023-06-04 20:43:16.450 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 20:43:16.486 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 20:43:17.261 [error] Failed to execute git
+2023-06-04 20:56:06.291 [error] Failed to execute git
+2023-06-04 20:56:09.200 [error] Failed to execute git
+2023-06-04 20:56:11.256 [error] Failed to execute git
+2023-06-04 20:56:17.178 [error] Failed to execute git
+2023-06-04 20:56:21.686 [error] Failed to execute git
+2023-06-04 21:02:42.801 [warning] Settings pattern "security.*" doesn't match any settings
+2023-06-04 21:02:42.805 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: interactiveEditor.editMode, accessibility.verbosity.diff-editor, accessibility.verbosity.terminal
+2023-06-04 21:02:45.979 [error] Failed to execute git
+2023-06-04 22:16:15.841 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 22:16:17.076 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 22:45:15.217 [warning] Settings pattern "security.*" doesn't match any settings
+2023-06-04 22:45:25.124 [error] Failed to execute git
+2023-06-04 22:48:10.769 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 22:48:10.867 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 22:48:22.671 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 22:48:24.023 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 22:48:29.683 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 22:48:29.697 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 22:48:46.084 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 22:48:46.178 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 22:49:19.019 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 22:49:22.679 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 22:49:36.478 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 22:49:44.659 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 22:49:52.534 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 22:50:22.646 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 22:50:26.526 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 22:50:37.317 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 22:50:39.849 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 22:55:49.396 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 22:55:52.361 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 22:55:57.754 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 22:56:11.301 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 22:56:12.612 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 22:56:14.095 [warning] Settings pattern "security.*" doesn't match any settings
+2023-06-04 22:56:40.461 [error] Failed to execute git
+2023-06-04 23:04:33.034 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 23:04:34.933 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 23:10:16.639 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 23:10:16.651 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 23:11:15.738 [error] Failed to execute git
+2023-06-04 23:12:21.257 [error] Failed to execute git
+2023-06-04 23:14:16.547 [error] Failed to execute git
+2023-06-04 23:14:24.434 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 23:14:27.992 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 23:14:29.264 [warning] UNRESPONSIVE extension host: 'vscode.git' took 13.273173154182663% of 475.753ms, saved PROFILE here: 'file:///tmp/exthost-c4fa4d.cpuprofile'
+2023-06-04 23:14:33.492 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 23:14:33.526 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 23:21:24.533 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 23:21:26.520 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 23:21:48.083 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 23:21:49.376 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 23:27:10.498 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 23:27:12.643 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 23:28:50.928 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 23:28:52.235 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 23:29:30.662 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 23:29:31.936 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 23:31:34.608 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 23:31:34.625 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 23:32:14.056 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 23:33:36.042 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 23:33:36.053 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 23:34:04.441 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 23:34:04.485 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 23:34:23.092 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 23:34:23.289 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 23:34:34.177 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 23:34:38.620 [info] UNRESPONSIVE extension host: starting to profile NOW

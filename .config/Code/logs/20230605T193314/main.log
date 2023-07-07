@@ -1,0 +1,11 @@
+2023-06-05 19:33:19.079 [info] update#setState idle
+2023-06-05 19:33:49.091 [info] update#setState checking for updates
+2023-06-05 19:33:50.016 [info] update#setState idle
+2023-06-05 20:33:49.108 [info] update#setState checking for updates
+2023-06-05 20:33:50.554 [info] update#setState idle
+2023-06-05 21:35:06.659 [info] update#setState checking for updates
+2023-06-05 21:35:08.344 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49241)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-06-05 21:35:08.376 [info] update#setState idle
+2023-06-05 21:35:41.455 [info] Extension host with pid 360 exited with code: 0, signal: unknown.

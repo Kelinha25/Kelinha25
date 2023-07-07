@@ -1,0 +1,3 @@
+2023-06-05 21:05:00.387 [error] browser #6: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2023-06-05 21:05:07.049 [error] browser #10: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2023-06-05 21:35:08.312 [error] electron #30: https://update.code.visualstudio.com/api/update/linux-x64/stable/b3e4e68a0bc097f0ae7907b217c1119af9e03435 - error undefined net::ERR_NETWORK_CHANGED

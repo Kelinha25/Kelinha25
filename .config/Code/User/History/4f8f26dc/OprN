@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+    <a> href = ¨https://www.kenzie.com html¨ target = ¨_blanck¨> Visite as Kenzie </a>
+
+<body>
+    <header>
+
+        <h1>Blog da Kenzie</h1>
+        <img src="https://media.graphassets.com/eLnDz54SoOXXXlREnoG3?_gl=1*1u2x7cv*_ga*ODI5NDM3NC4xNjgzNTAwMTg3*_ga_G6FYGSYGZ4*MTY4NDg1NjcwMS4zNy4xLjE2ODQ4NTY5MDMuNTguMC4w" alt="">
+    </header> <br/>
+    
+    <main>
+        <section>
+            <!-- Área dos posts -->
+            <article>
+                <h1><strong>APRENDIZADO RAPIDO</strong></h1>
+            <p>“Sou da turma 13 e posso dizer, com certeza, que o conteúdo é muito completo, é uma formação de excelência! </p>
+            <p> <em>Annelise Rocha</em></p>
+              <a>¨https://kenzie.com.br/#:~:text=%E2%80%9CSou%20da%20turma%2013%20e%20posso%20dizer%2C%20com%20certeza%2C%20que%20o%20conte%C3%BAdo%20%C3%A9%20muito%20completo%2C%20%C3%A9%20uma%20forma%C3%A7%C3%A3o%20de%20excel%C3%AAncia!¨</a> </br>
+
+            <h2><strong> A POSSIBILIDADE DE APRENDER DO ZERO</strong></h2>
+            <p>“Eu entrei na Kenzie sem saber nada de programação, aprendi do zero. Eu vi na Kenzie uma oportunidade de ter uma carreira promissora investindo apenas 1 ano de estudos para iniciar.</p>
+            <p> <em>Igor Ribeiro</em></p>
+              <a>https://kenzie.com.br/#:~:text=investindo%20apenas%201-,ano,-de%20estudos%20para</a>  </br>  
+
+            <h3><strong>OPORTUNIDADES COM A KENZIE</strong></h3>
+             <p>“Quando adentrei o mercado de trabalho, que foi graças a conexões que realizei dentro do ecossistema da Kenzie,</p>
+             <p> <em>André Luis Passoni</em></p>
+                  <a>https://kenzie.com.br/#:~:text=trabalho%2C%20que%20foi-,gra%C3%A7as,-a%20conex%C3%B5es%20que</a> </br> 
+
+           <h4><strong>DIDATICA DE ENCINO DIFERENTE </strong></h4>
+            <p>O modelo de ensino focado em prática é uma das coisas que mais deram certo para o meu aprendizado</p>
+            <p> <em>Susimara</em></p> </br>
+                 <a>https://kenzie.com.br/curriculo#:~:text=para%20o%20meu-,aprendizado,-%2C%20e%20junto%20disso</a> </br>
+                  
+                 <form></form>
+          
+            
+              
+                  
+                  
+              </form>
+      
+                      <div>
+                          <label for="nome">Nome:</label>
+                          <input type="text" id="nome" />
+                      </div>
+                      <div>
+                          <label for="email">E-mail:</label>
+                          <input type="email" id="email" />
+                      </div><div>
+                        <label for="pass">Password (8 characters minimum):</label>
+                        <input type="password" id="pass" name="password"
+                               minlength="8" required>
+                    </div>
+                      <div>
+                          <label for="msg">Mensagem:</label>
+                          <textarea id="msg"></textarea>
+                      </div>
+                  </form>
+                  
+                        <input type="text" placeholder="Informe seu nome aqui..." required />
+                        <button type="submit">Enviar nome</button> </br>
+                      </form>
+                   
+                      <input type="submit" value =¨ Exibir o e-mail informado¨ >
+                    </br>
+                    <footer> texto feito por kelen dia 04/06</footer>
+</html>

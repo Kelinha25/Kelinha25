@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Descrição -->
+    <meta name="description" content="Atividade de criação de estrutura de um blog com HTML"/>
+    </head>
+<body>
+    <header>
+    <!-- Cabeçalho da página -->
+        <h1>Blog da Kenzie</h1>
+    </header><br/>
+    
+    <main>
+        <section>
+            <!-- Área dos posts -->
+            <article>
+                <h1>COMO APRENDER A PROGRAMAR DO ZERO: PASSO A PASSO</h1>
+                <br/>
+                <p> <menu:></p>
+                <ul>
+                   <l1></l1>
+                </ul>

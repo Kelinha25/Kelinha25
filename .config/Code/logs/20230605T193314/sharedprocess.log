@@ -1,0 +1,21 @@
+2023-06-05 19:33:34.199 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-05 19:33:52.751 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-05 19:40:39.948 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-05 21:05:43.321 [info] Getting Manifest... george-alisson.html-preview-vscode
+2023-06-05 21:05:43.378 [info] Installing extension: george-alisson.html-preview-vscode
+2023-06-05 21:05:48.594 [info] Extension signature is verified: george-alisson.html-preview-vscode
+2023-06-05 21:05:52.881 [info] Extracted extension to /home/cerejinha3020/.vscode/extensions/.5cd15b22-99ed-4d34-a207-329e993df462: george-alisson.html-preview-vscode
+2023-06-05 21:05:52.946 [info] Renamed to /home/cerejinha3020/.vscode/extensions/george-alisson.html-preview-vscode-0.2.5
+2023-06-05 21:05:52.952 [info] Extracting extension completed. george-alisson.html-preview-vscode
+2023-06-05 21:05:52.990 [info] Extension installed successfully: george-alisson.html-preview-vscode
+2023-06-05 21:07:09.571 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'then'): TypeError: Cannot read properties of undefined (reading 'then')
+    at y.s (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:23:5587)
+    at y.q (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:23:4987)
+    at /usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:23:4376
+    at E.invoke (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:19:145)
+    at u.deliver (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:19:2121)
+    at a.fire (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:19:1729)
+    at MessagePortMain.Z (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:17:23918)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-06-05 21:35:07.328 [warning] No ptyHost heartbeat after 6 seconds

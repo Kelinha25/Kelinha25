@@ -1,0 +1,8 @@
+2023-06-05 23:39:06.520 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-05 23:39:18.546 [info] Getting Manifest... github.codespaces
+2023-06-05 23:39:18.693 [info] Installing extension: github.codespaces
+2023-06-05 23:39:30.068 [info] Extension signature is verified: github.codespaces
+2023-06-05 23:39:32.912 [info] Extracted extension to /home/cerejinha3020/.vscode/extensions/.8e93ea37-dfef-4eda-8ff2-ad7e627b8c8c: github.codespaces
+2023-06-05 23:39:32.940 [info] Renamed to /home/cerejinha3020/.vscode/extensions/github.codespaces-1.14.7
+2023-06-05 23:39:32.962 [info] Extracting extension completed. github.codespaces
+2023-06-05 23:39:33.091 [info] Extension installed successfully: github.codespaces

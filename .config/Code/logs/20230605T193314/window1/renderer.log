@@ -1,0 +1,553 @@
+2023-06-05 19:33:22.724 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-06-05 19:34:26.441 [error] Failed to execute git
+2023-06-05 19:34:38.491 [info] [perf] Render performance baseline is 390ms
+2023-06-05 19:34:58.414 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:35:00.933 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:35:13.211 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:35:13.219 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:35:24.291 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:35:26.365 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:35:31.727 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:35:31.761 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:35:37.171 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:35:38.915 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:35:41.677 [error] Cannot read properties of undefined (reading 'filter'): TypeError: Cannot read properties of undefined (reading 'filter')
+    at ko.isItemVisible (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2495:45543)
+    at l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:37746)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32079
+    at Array.forEach (<anonymous>)
+    at P.a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32052)
+    at P.h (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17637)
+    at P.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17621)
+2023-06-05 19:35:45.777 [error] Cannot read properties of undefined (reading 'filter'): TypeError: Cannot read properties of undefined (reading 'filter')
+    at ko.isItemVisible (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2495:45543)
+    at l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:37746)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32079
+    at Array.forEach (<anonymous>)
+    at P.a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32052)
+    at P.h (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17637)
+    at P.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17621)
+2023-06-05 19:35:47.308 [error] Cannot read properties of undefined (reading 'filter'): TypeError: Cannot read properties of undefined (reading 'filter')
+    at ko.isItemVisible (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2495:45543)
+    at l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:37746)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32079
+    at Array.forEach (<anonymous>)
+    at P.a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32052)
+    at P.h (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17637)
+    at P.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17621)
+2023-06-05 19:36:49.857 [error] Cannot read properties of undefined (reading 'filter'): TypeError: Cannot read properties of undefined (reading 'filter')
+    at ko.isItemVisible (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2495:45543)
+    at l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:37746)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32079
+    at Array.forEach (<anonymous>)
+    at P.a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32052)
+    at P.h (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17637)
+    at P.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17621)
+2023-06-05 19:36:50.873 [error] Cannot read properties of undefined (reading 'filter'): TypeError: Cannot read properties of undefined (reading 'filter')
+    at ko.isItemVisible (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2495:45543)
+    at l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:37746)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32079
+    at Array.forEach (<anonymous>)
+    at P.a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32052)
+    at P.h (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17637)
+    at P.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17621)
+2023-06-05 19:37:56.538 [error] Cannot read properties of undefined (reading 'filter'): TypeError: Cannot read properties of undefined (reading 'filter')
+    at ko.isItemVisible (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2495:45543)
+    at l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:37746)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32079
+    at Array.forEach (<anonymous>)
+    at P.a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32052)
+    at P.h (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17637)
+    at P.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17621)
+2023-06-05 19:40:47.418 [error] Cannot read properties of undefined (reading 'filter'): TypeError: Cannot read properties of undefined (reading 'filter')
+    at ko.isItemVisible (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2495:45543)
+    at l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:37746)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32079
+    at Array.forEach (<anonymous>)
+    at P.a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32052)
+    at P.h (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17637)
+    at P.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17621)
+2023-06-05 19:41:09.307 [error] Cannot read properties of undefined (reading 'filter'): TypeError: Cannot read properties of undefined (reading 'filter')
+    at ko.isItemVisible (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2495:45543)
+    at l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:37746)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32079
+    at Array.forEach (<anonymous>)
+    at P.a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32052)
+    at P.h (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17637)
+    at P.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17621)
+2023-06-05 19:41:50.234 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:41:58.494 [error] Cannot read properties of undefined (reading 'filter'): TypeError: Cannot read properties of undefined (reading 'filter')
+    at ko.isItemVisible (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2495:45543)
+    at l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:37746)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32079
+    at Array.forEach (<anonymous>)
+    at P.a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32052)
+    at P.h (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17637)
+    at P.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17621)
+2023-06-05 19:42:02.923 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:42:03.663 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:42:04.293 [error] Cannot read properties of undefined (reading 'filter'): TypeError: Cannot read properties of undefined (reading 'filter')
+    at ko.isItemVisible (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2495:45543)
+    at l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:37746)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32079
+    at Array.forEach (<anonymous>)
+    at P.a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32052)
+    at P.h (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17637)
+    at P.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17621)
+2023-06-05 19:42:27.026 [error] Cannot read properties of undefined (reading 'filter'): TypeError: Cannot read properties of undefined (reading 'filter')
+    at ko.isItemVisible (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2495:45543)
+    at l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:37746)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32079
+    at Array.forEach (<anonymous>)
+    at P.a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1538:32052)
+    at P.h (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17637)
+    at P.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:97:17621)
+2023-06-05 19:42:56.635 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:43:08.910 [error] Failed to execute git
+2023-06-05 19:43:13.165 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:43:18.565 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:43:22.431 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:43:36.989 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:43:37.335 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:43:54.323 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:43:55.259 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:44:02.008 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:44:40.582 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:44:40.598 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:44:51.197 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:44:53.396 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:45:08.752 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:45:12.612 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:45:16.961 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:45:19.542 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:45:30.410 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:45:30.604 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:45:39.519 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:45:51.658 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:45:56.377 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:46:00.920 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:46:03.126 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:46:14.663 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:46:17.143 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:46:23.649 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:46:23.840 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:46:37.041 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:46:37.102 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:46:44.860 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:46:49.096 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:46:55.201 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:47:07.168 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:47:21.425 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:47:21.486 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:47:27.164 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:47:32.332 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:47:39.286 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:47:40.422 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:47:43.827 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:48:00.455 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:48:19.293 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:48:42.696 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:49:02.834 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:49:12.739 [warning] UNRESPONSIVE extension host: 'vscode.git' took 11.182759867301032% of 616.801ms, saved PROFILE here: 'file:///tmp/exthost-036815.cpuprofile'
+2023-06-05 19:49:18.465 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:49:26.428 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:49:33.159 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:49:35.522 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:49:45.879 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:49:45.919 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:49:53.090 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:50:07.677 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:50:22.161 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:50:22.313 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:50:28.017 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:50:34.542 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:50:39.219 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:50:42.228 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:50:49.715 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:50:53.429 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:50:59.014 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:51:05.178 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:51:09.861 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:51:12.818 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:51:20.006 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:51:25.830 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:51:32.820 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:51:38.223 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:51:45.471 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:52:01.722 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:52:16.394 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:52:36.615 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:52:57.107 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:53:23.991 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:53:38.905 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:53:57.745 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:54:07.197 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:54:16.067 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:54:41.027 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:55:01.736 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:55:20.374 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:55:50.750 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:56:07.563 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:56:13.771 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:56:21.191 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:56:35.252 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:56:50.369 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:57:06.723 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:57:37.100 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:57:52.123 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:57:58.781 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:58:04.250 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:58:20.523 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:58:35.671 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:58:55.379 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:58:55.633 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 19:59:01.654 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 19:59:22.105 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:00:16.618 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:00:17.718 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:00:24.446 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:00:55.430 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:01:15.971 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:01:31.379 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:01:46.651 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:02:04.917 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:02:11.290 [warning] UNRESPONSIVE extension host: 'vscode.git' took 18.42943134490762% of 962.71ms, saved PROFILE here: 'file:///tmp/exthost-d0c71a.cpuprofile'
+2023-06-05 20:02:22.657 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:02:25.041 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:02:29.371 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:02:33.479 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:02:40.833 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:02:40.893 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:02:47.376 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:02:52.977 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:02:57.693 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:03:02.735 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:03:08.466 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:03:10.604 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:03:16.389 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:03:16.565 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:03:24.171 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:03:24.859 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:03:29.686 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:03:29.691 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:03:38.491 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:03:47.317 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:03:55.770 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:03:59.871 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:04:01.040 [warning] UNRESPONSIVE extension host: 'vscode.git' took 12.745276300609449% of 562.869ms, saved PROFILE here: 'file:///tmp/exthost-1cc9fb.cpuprofile'
+2023-06-05 20:04:21.356 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:04:22.409 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:05:07.050 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:05:08.768 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:05:25.403 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:05:29.191 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:05:33.509 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:05:40.118 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:05:45.410 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:05:51.162 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:05:55.799 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:05:58.747 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:06:03.516 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:06:05.473 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:06:10.438 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:06:12.525 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:06:21.222 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:06:21.428 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:06:26.285 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:06:30.697 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:06:36.802 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:06:42.575 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:06:48.171 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:06:53.735 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:06:59.109 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:07:06.985 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:07:12.511 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:07:30.501 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:07:33.072 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:08:00.317 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:08:09.119 [warning] UNRESPONSIVE extension host: 'vscode.git' took 19.781977473885515% of 1016.616ms, saved PROFILE here: 'file:///tmp/exthost-40125c.cpuprofile'
+2023-06-05 20:08:26.657 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:08:43.183 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:08:59.404 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:09:04.155 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:09:09.809 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:09:11.704 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:09:22.232 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:09:24.240 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:09:28.613 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:09:32.634 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:09:37.371 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:09:40.633 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:09:45.074 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:09:48.593 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:09:54.060 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:09:55.849 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:10:01.045 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:10:01.309 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:10:07.698 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:10:12.203 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:10:13.276 [warning] UNRESPONSIVE extension host: 'vscode.git' took 12.609399972657314% of 593.054ms, saved PROFILE here: 'file:///tmp/exthost-31067e.cpuprofile'
+2023-06-05 20:10:23.036 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:10:36.065 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:10:39.520 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:10:44.942 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:10:49.341 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:10:54.364 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:10:56.437 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:11:03.543 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:11:07.220 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:11:14.929 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:11:14.993 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:11:20.563 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:11:20.704 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:11:38.535 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:11:40.269 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:11:44.616 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:11:45.589 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:11:57.269 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:12:01.462 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:12:07.509 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:12:11.040 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:12:15.632 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:12:19.603 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:12:24.965 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:12:27.223 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:12:31.439 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:12:35.349 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:12:40.707 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:12:42.312 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:12:47.916 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:12:51.833 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:12:59.466 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:12:59.667 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:13:06.625 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:13:06.699 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:13:12.552 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:13:17.495 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:13:22.980 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:13:24.564 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:13:37.351 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:13:39.468 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:13:44.849 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:13:47.777 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:14:10.823 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:14:11.008 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:14:22.890 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:14:22.918 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:14:29.338 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:14:29.385 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:14:34.631 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:14:37.061 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:14:41.372 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:14:42.552 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:14:49.195 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:14:54.760 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:15:05.131 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:15:09.602 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:15:15.018 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:15:17.029 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:15:23.693 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:15:23.825 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:15:29.691 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:15:31.151 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:15:38.929 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:15:39.056 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:15:44.411 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:15:46.117 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:15:51.583 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:15:55.290 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:16:00.574 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:16:00.576 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:16:05.624 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:16:08.957 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:16:13.645 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:16:14.999 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:16:20.462 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:16:38.437 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:16:40.672 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:16:46.379 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:16:51.655 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:16:58.282 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:17:14.399 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:17:15.120 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:17:50.765 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:17:52.100 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:17:59.189 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:18:06.088 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:18:11.809 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:18:16.300 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:18:43.453 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:18:51.487 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:18:56.567 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:19:01.096 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:19:18.072 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:19:31.230 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:19:48.312 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:19:57.017 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:20:02.293 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:20:27.845 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:20:46.519 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:20:52.826 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:21:02.178 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:21:18.100 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:21:18.281 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:21:24.898 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:21:28.120 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:21:34.711 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:21:40.033 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:21:44.331 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:21:49.906 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:21:56.732 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:21:57.776 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:22:03.367 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:22:05.490 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:22:12.954 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:22:13.024 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:22:20.623 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:22:24.566 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:22:31.321 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:22:37.903 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:22:43.147 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:22:53.520 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:22:56.335 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:23:02.586 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:23:02.608 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:23:09.629 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:23:12.191 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:23:16.400 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:23:18.712 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:23:25.356 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:23:31.177 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:23:41.830 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:23:46.205 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:23:51.884 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:23:53.589 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:23:59.900 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:24:03.057 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:24:08.437 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:24:12.227 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:24:16.604 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:24:18.807 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:24:37.040 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:24:37.074 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:24:42.521 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:24:44.045 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:24:49.152 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:24:52.373 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:24:58.055 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:25:33.015 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:25:33.083 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:25:38.513 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:25:39.249 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:25:44.302 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:25:47.219 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:25:50.862 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:25:52.564 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:26:03.083 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:26:03.387 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:26:21.933 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:26:21.987 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:26:38.172 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:26:41.992 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:27:04.906 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:27:04.909 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:27:11.566 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:27:11.727 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:27:16.888 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:27:17.413 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:27:22.790 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:27:25.585 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:27:30.443 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:27:30.734 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:27:36.687 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:27:56.947 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:28:03.579 [warning] UNRESPONSIVE extension host: 'vscode.git' took 18.14646438935998% of 916.115ms, saved PROFILE here: 'file:///tmp/exthost-a031f6.cpuprofile'
+2023-06-05 20:28:10.406 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:28:12.434 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:28:16.754 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:28:18.187 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:28:23.419 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:28:26.848 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:28:39.467 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:28:53.772 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:29:01.959 [warning] UNRESPONSIVE extension host: 'vscode.git' took 15.494233419551902% of 823.186ms, saved PROFILE here: 'file:///tmp/exthost-77196a.cpuprofile'
+2023-06-05 20:29:06.808 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:29:06.813 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:29:23.449 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:29:23.745 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:29:31.621 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:29:31.625 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:29:37.511 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:29:38.776 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:30:12.323 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:30:12.516 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:30:23.831 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:30:24.033 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:31:05.007 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:31:05.043 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:31:16.914 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:31:17.084 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:31:33.335 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:31:33.699 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:31:59.173 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:32:12.065 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:32:13.519 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:33:14.422 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:33:14.754 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:33:26.217 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:33:26.253 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:33:37.756 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:33:41.735 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:33:48.474 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:33:48.854 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:33:53.619 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:33:55.494 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:34:06.748 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:34:07.218 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:34:14.196 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:34:14.200 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:34:31.260 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:34:31.328 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:34:43.713 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:34:44.827 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:35:19.028 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:35:23.504 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:35:29.211 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:35:29.572 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:36:28.013 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:36:28.033 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:38:03.376 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:38:05.414 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:38:33.732 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:38:35.471 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:39:03.618 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:39:05.825 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:40:41.305 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:40:42.718 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:41:49.496 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:41:49.498 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:44:05.311 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:44:09.172 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:44:15.164 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:44:15.216 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:49:45.306 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:49:46.642 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:49:51.799 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:49:53.660 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:50:10.526 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:50:10.723 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:51:34.676 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 20:51:34.933 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:57:51.095 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 20:57:58.883 [warning] UNRESPONSIVE extension host: 'vscode.git' took 12.913845532001558% of 661.988ms, saved PROFILE here: 'file:///tmp/exthost-4168ea.cpuprofile'
+2023-06-05 20:58:55.204 [error] Failed to execute git
+2023-06-05 20:59:27.439 [error] Failed to execute git
+2023-06-05 20:59:37.986 [error] Failed to execute git
+2023-06-05 20:59:41.369 [error] Failed to execute git
+2023-06-05 20:59:46.893 [error] Failed to execute git
+2023-06-05 21:06:34.021 [error] Failed to execute git
+2023-06-05 21:07:08.761 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-06-05 21:07:09.154 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-06-05 21:07:09.488 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-06-05 21:35:11.769 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 21:35:11.774 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session

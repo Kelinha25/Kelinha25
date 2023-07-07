@@ -1,0 +1,102 @@
+2023-06-05 23:38:57.839 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-06-05 23:39:06.637 [info] [perf] Render performance baseline is 315ms
+2023-06-05 23:39:25.445 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 23:39:26.274 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 23:39:54.449 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 23:40:02.101 [warning] UNRESPONSIVE extension host: 'github.codespaces' took 99.49738309067695% of 5117.43ms, saved PROFILE here: 'file:///tmp/exthost-8fb689.cpuprofile'
+2023-06-05 23:40:17.835 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 23:40:35.449 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 23:40:43.538 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 23:40:49.983 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 23:40:58.182 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-06-05 23:41:14.459 [info] Invoking resolveAuthority(codespaces)...
+2023-06-05 23:41:14.464 [info] [LocalProcess0][resolveAuthority(codespaces,1)][0ms] obtaining proxy...
+2023-06-05 23:41:14.465 [info] [LocalProcess0][resolveAuthority(codespaces,1)][1ms] invoking...
+2023-06-05 23:41:15.467 [info] [LocalProcess0][resolveAuthority(codespaces,1)][1003ms] waiting...
+2023-06-05 23:41:16.468 [info] [LocalProcess0][resolveAuthority(codespaces,1)][2003ms] waiting...
+2023-06-05 23:41:17.469 [info] [LocalProcess0][resolveAuthority(codespaces,1)][3005ms] waiting...
+2023-06-05 23:41:18.468 [info] [LocalProcess0][resolveAuthority(codespaces,1)][4003ms] waiting...
+2023-06-05 23:41:19.468 [info] [LocalProcess0][resolveAuthority(codespaces,1)][5003ms] waiting...
+2023-06-05 23:41:20.467 [info] [LocalProcess0][resolveAuthority(codespaces,1)][6003ms] waiting...
+2023-06-05 23:41:20.872 [error] [LocalProcess0][resolveAuthority(codespaces,1)][6406ms] returned an error {"code":"TemporarilyNotAvailable","message":"Please sign in to the GitHub Codespaces extension before connecting to a codespace."}
+2023-06-05 23:41:20.879 [error] resolveAuthority(codespaces) returned an error after 6417 ms Please sign in to the GitHub Codespaces extension before connecting to a codespace.
+2023-06-05 23:41:20.892 [error] Error received from starting extension host (kind: Remote)
+2023-06-05 23:41:20.898 [error] CodeExpectedError: Please sign in to the GitHub Codespaces extension before connecting to a codespace.
+    at e.NativeExtensionService.Vb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:32453)
+    at async e.NativeExtensionService.Zb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:33489)
+    at async e.NativeExtensionService.Fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:34657)
+    at async e.NativeExtensionService.eb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:18985)
+2023-06-05 23:41:20.902 [error] [remote-connection][attempt 1] An error occurred in initial connection! Will retry... Error:
+2023-06-05 23:41:20.904 [error] CodeExpectedError: Please sign in to the GitHub Codespaces extension before connecting to a codespace.
+    at e.NativeExtensionService.Vb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:32453)
+    at async e.NativeExtensionService.Zb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:33489)
+    at async e.NativeExtensionService.Fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:34657)
+    at async e.NativeExtensionService.eb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:18985)
+2023-06-05 23:41:20.916 [error] [remote-connection][attempt 2] An error occurred in initial connection! Will retry... Error:
+2023-06-05 23:41:20.918 [error] CodeExpectedError: Please sign in to the GitHub Codespaces extension before connecting to a codespace.
+    at e.NativeExtensionService.Vb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:32453)
+    at async e.NativeExtensionService.Zb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:33489)
+    at async e.NativeExtensionService.Fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:34657)
+    at async e.NativeExtensionService.eb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:18985)
+2023-06-05 23:41:21.160 [error] [remote-connection][attempt 3] An error occurred in initial connection! Will retry... Error:
+2023-06-05 23:41:21.164 [error] CodeExpectedError: Please sign in to the GitHub Codespaces extension before connecting to a codespace.
+    at e.NativeExtensionService.Vb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:32453)
+    at async e.NativeExtensionService.Zb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:33489)
+    at async e.NativeExtensionService.Fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:34657)
+    at async e.NativeExtensionService.eb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:18985)
+2023-06-05 23:41:21.391 [error] [remote-connection][attempt 4] An error occurred in initial connection! Will retry... Error:
+2023-06-05 23:41:21.392 [error] CodeExpectedError: Please sign in to the GitHub Codespaces extension before connecting to a codespace.
+    at e.NativeExtensionService.Vb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:32453)
+    at async e.NativeExtensionService.Zb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:33489)
+    at async e.NativeExtensionService.Fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:34657)
+    at async e.NativeExtensionService.eb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:18985)
+2023-06-05 23:41:21.403 [error] [remote-connection][attempt 5]  An error occurred in initial connection! It will be treated as a permanent error. Error:
+2023-06-05 23:41:21.407 [error] CodeExpectedError: Please sign in to the GitHub Codespaces extension before connecting to a codespace.
+    at e.NativeExtensionService.Vb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:32453)
+    at async e.NativeExtensionService.Zb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:33489)
+    at async e.NativeExtensionService.Fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:34657)
+    at async e.NativeExtensionService.eb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:18985)
+2023-06-05 23:41:21.417 [error] CodeExpectedError: Please sign in to the GitHub Codespaces extension before connecting to a codespace.
+    at e.NativeExtensionService.Vb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:32453)
+    at async e.NativeExtensionService.Zb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:33489)
+    at async e.NativeExtensionService.Fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:34657)
+    at async e.NativeExtensionService.eb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:18985)
+2023-06-05 23:41:21.432 [error] Cannot register remote filesystem provider. Error while fetching remote environment. Please sign in to the GitHub Codespaces extension before connecting to a codespace.
+2023-06-05 23:41:21.437 [error] CodeExpectedError: Please sign in to the GitHub Codespaces extension before connecting to a codespace.
+    at e.NativeExtensionService.Vb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:32453)
+    at async e.NativeExtensionService.Zb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:33489)
+    at async e.NativeExtensionService.Fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:34657)
+    at async e.NativeExtensionService.eb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:18985)
+2023-06-05 23:41:21.448 [error] CodeExpectedError: Please sign in to the GitHub Codespaces extension before connecting to a codespace.
+    at e.NativeExtensionService.Vb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:32453)
+    at async e.NativeExtensionService.Zb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:33489)
+    at async e.NativeExtensionService.Fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:34657)
+    at async e.NativeExtensionService.eb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:18985)
+2023-06-05 23:41:21.449 [error] CodeExpectedError: Please sign in to the GitHub Codespaces extension before connecting to a codespace.
+    at e.NativeExtensionService.Vb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:32453)
+    at async e.NativeExtensionService.Zb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:33489)
+    at async e.NativeExtensionService.Fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:34657)
+    at async e.NativeExtensionService.eb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:18985)
+2023-06-05 23:41:21.449 [error] CodeExpectedError: Please sign in to the GitHub Codespaces extension before connecting to a codespace.
+    at e.NativeExtensionService.Vb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:32453)
+    at async e.NativeExtensionService.Zb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:33489)
+    at async e.NativeExtensionService.Fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:34657)
+    at async e.NativeExtensionService.eb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:18985)
+2023-06-05 23:41:21.492 [error] CodeExpectedError: Please sign in to the GitHub Codespaces extension before connecting to a codespace.
+    at e.NativeExtensionService.Vb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:32453)
+    at async e.NativeExtensionService.Zb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:33489)
+    at async e.NativeExtensionService.Fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:34657)
+    at async e.NativeExtensionService.eb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:18985)
+2023-06-05 23:41:21.709 [error] Please sign in to the GitHub Codespaces extension before connecting to a codespace.: CodeExpectedError: Please sign in to the GitHub Codespaces extension before connecting to a codespace.
+    at e.NativeExtensionService.Vb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:32453)
+    at async e.NativeExtensionService.Zb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:33489)
+    at async e.NativeExtensionService.Fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:34657)
+    at async e.NativeExtensionService.eb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2593:18985)
+2023-06-05 23:41:28.601 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-06-05 23:41:41.210 [info] [perf] Render performance baseline is 112ms
+2023-06-05 23:43:25.076 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-06-05 23:43:39.372 [error] Failed to execute git
+2023-06-05 23:43:42.362 [info] [perf] Render performance baseline is 535ms
+2023-06-05 23:43:50.337 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-05 23:43:52.561 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-05 23:46:07.819 [error] Failed to execute git
